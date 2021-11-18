@@ -1,0 +1,17 @@
+C:\Users\greic\source\repos\Prototipo_Treinos\bin\Debug\Prototipo_Treinos.exe.config
+C:\Users\greic\source\repos\Prototipo_Treinos\bin\Debug\Prototipo_Treinos.exe
+C:\Users\greic\source\repos\Prototipo_Treinos\bin\Debug\Prototipo_Treinos.pdb
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.csprojAssemblyReference.cache
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form1.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form2.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form3.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form4.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form5.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form6.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form7.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Properties.Resources.resources
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.csproj.GenerateResource.cache
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.csproj.CoreCompileInputs.cache
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.exe
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.pdb
+C:\Users\greic\source\repos\Prototipo_Treinos\obj\Debug\Prototipo_Treinos.Form8.resources
